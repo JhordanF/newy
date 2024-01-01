@@ -79,7 +79,7 @@ section .box .circle::before{
 
 h2{
     position:relative;
-    font-size: 4rem;
+    font-size: 3rem;
     color:#efb810;
     text-align: center;
 }
